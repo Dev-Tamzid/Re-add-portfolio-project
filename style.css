@@ -64,5 +64,22 @@ p{
 .banner img{
     width: 90%;
 }
+.banner-right{
+    background-image: url(images/asset\ 3.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    padding-right: 7%;
+}
+.banner-btn{
+    text-decoration: none;
+    color: white;
+    background-image:linear-gradient(rgb(231, 231, 72),orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 10px;
+
+}
 /* Banner-css-end */
 
