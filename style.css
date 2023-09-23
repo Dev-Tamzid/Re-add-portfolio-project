@@ -83,3 +83,50 @@ p{
 }
 /* Banner-css-end */
 
+/* Experience-css-start */
+#experience{
+    height: 500px;
+    padding-top: 150px;
+
+}
+#experience h1{
+    padding-bottom: 60px;
+}
+.experience-main{
+    display: flex;
+    background-image: url(images/asset\ 4.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+.expo{
+    padding-left:25px;
+    padding-right: 10px;
+    padding-bottom: 80px;
+    padding-top: 10px;
+    box-shadow: 2px 10px 30px 10px rgba(135, 132, 132, 0.872);
+    width: 40%;
+    margin-left:5% ;
+    margin-right: 10px;
+    text-align: left;
+
+}
+.experience-left{
+    width: 80%;
+}
+.experience-right{
+    width: 80%;
+}
+#exp-1{
+    border-left: 5px solid #fa7961;
+}
+#exp-2{
+    border-left: 7px solid blue;
+}
+/* Experience-css-end*/
+/* footer-start */
+footer p{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 12px;
+}
+/* footer-end */
